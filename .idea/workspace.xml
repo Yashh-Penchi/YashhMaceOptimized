@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="945f4e34-5f3d-4131-818e-5e16c31bb711" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Arrays_Strings/src/ArrayUtilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_Strings/src/FindNumberOfOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_Strings/src/MaxAndMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_Strings/src/SortedArrey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_Strings/src/SumAndAverage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_Strings/src/TwoDimentionalArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Arrays_Strings/src/numFoundInArr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Challenges/src/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/src/main/java/com/yashh/faketier/FakeTierClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/src/main/java/com/yashh/faketier/config/ModMenuIntegration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/src/main/java/com/yashh/faketier/config/TierConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/src/main/java/com/yashh/faketier/mixin/PlayerListEntryMixin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/src/main/java/com/yashh/faketier/mixin/PlayerNametagMixin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/src/main/resources/fabric.mod.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../YashhFakeTier/src/main/resources/faketier.mixins.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays_Strings/src/String_Basic_Uses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays_Strings/src/String_Basic_Uses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Arrays_Strings/src/SumArrey.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Arrays_Strings/src/SumArrey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Exaption handling/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Exaption handling/Main.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="YashhMaceOptimized" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="YashhMaceOptimized" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="YashhMaceOptimized" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="fabric" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Yashh-Penchi&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Yashh-Penchi/JAVA-Learning.git&quot;,
+    &quot;accountId&quot;: &quot;8337dedc-e3d2-441a-97de-8932c1647a77&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3Aq1VHfH3z1VqCUdKA9nzbBKRSh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Y:/Programming_Learning/JAVA/YashhMaceOptimized [wrapper --gradle-version 8.7].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.YashhMaceOptimized [configureLaunch].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.YashhMaceOptimized [runClient].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.YashhMaceOptimized [runServer].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;Y:/Programming_Learning/JAVA/YashhMaceOptimized&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.yashh.maceoptimized.combat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="Y:\Programming_Learning\JAVA\YashhMaceOptimized\src\main\resources" />
+      <recent name="Y:\Programming_Learning\JAVA\YashhMaceOptimized\src\main\resources\assets\maceoptimized" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle wrapper --gradle-version 8.7" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.YashhMaceOptimized [runClient]">
+    <configuration name="Y:/Programming_Learning/JAVA/YashhMaceOptimized [wrapper --gradle-version 8.7]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="wrapper" />
+            <option value="--gradle-version" />
+            <option value="8.7" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="YashhMaceOptimized [configureLaunch]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="configureLaunch" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="YashhMaceOptimized [runClient]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runClient" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="YashhMaceOptimized [runServer]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="runServer" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.YashhMaceOptimized [runClient]" />
+        <item itemvalue="Gradle.YashhMaceOptimized [runServer]" />
+        <item itemvalue="Gradle.YashhMaceOptimized [configureLaunch]" />
+        <item itemvalue="Gradle.Y:/Programming_Learning/JAVA/YashhMaceOptimized [wrapper --gradle-version 8.7]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="945f4e34-5f3d-4131-818e-5e16c31bb711" name="Changes" comment="" />
+      <created>1773305309581</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773305309581</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:net.fabricmc:fabric-loader" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

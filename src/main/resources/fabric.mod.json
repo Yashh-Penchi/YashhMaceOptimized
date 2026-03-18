@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "id": "maceoptimized",
+  "version": "${version}",
+  "name": "YashhMaceOptimized",
+  "description": "Ultimate Mace Combat Optimization for PvP, Faster combat mechanics, Better PvP experience\n\n§eFor Version 1.21.8§r\n\n§aThis is the FREE version — use and enjoy!§r\n\n§7Premium version included Much Assistance and Help in ur Combat \n§u§lTo get the premium version, please contact me on discord: §s@imm__yashh§r \nThis All Feature Considers in Legit Packs its Not a kind of Hack Dont worry",
+  "authors": ["Yashh Penchi"],
+  "contact": {
+    "homepage": "https://github.com/Yashh-Penchi",
+    "sources": "https://github.com/Yashh-Penchi"
+  },
+  "license": "CC-BY-NC-ND-4.0",
+  "icon": "assets/maceoptimized/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.yashh.maceoptimized.MaceOptimizedClient"],
+    "modmenu": ["com.yashh.maceoptimized.config.ModMenuIntegration"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.8",
+    "java": ">=21",
+    "fabric-api": "*",
+    "cloth-config": "*",
+    "modmenu": "*"
+  }
+}

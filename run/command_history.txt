@@ -1,0 +1,42 @@
+/enchant @a minecraft:density
+/enchant @a minecraft:breach 4
+/time set night
+/effect give @a minecraft:resistance infinite 255
+/summon minecraft:zombie
+/enchant @a minecraft:wind_burst 3
+/enchant @a minecraft:wind_burst 2
+/summon minecraft:zombie -65.92 63.00 -23.81 {ArmorItems:[{},{},{id:"minecraft:netherite_chestplate",count:1},{}],ArmorDropChances:[0.085f,0.085f,0.085f,0.085f]}
+//summon minecraft:zombie -65.92 63.00 -23.81 {ArmorItems:[{},{},{id:"minecraft:netherite_chestplate",count:1},{}],ArmorDropChances:[0.085f,0.085f,0.085f,0.085f]}
+/summon minecraft:zombie -65.92 63.00 -23.81 {ArmorItems:[{},{},{id:"minecraft:netherite_chestplate",count:1},{}],ArmorDropChances:[0.085f,0.085f,0.085f,0.085f]}
+/tick rate 10
+/summon minecraft:zombie -65.92 63.00 -23.81 {ArmorItems:[{},{},{id:"minecraft:netherite_chestplate",count:1},{}],ArmorDropChances:[0.085f,0.085f,0.085f,0.085f]}
+/tick rate 20
+/time set day
+/summon minecraft:iron_golem ~ ~ ~ {NoAI:1b}
+/summon minecraft:zombie -65.92 63.00 -23.81 {ArmorItems:[{},{},{id:"minecraft:netherite_chestplate",count:1},{}],ArmorDropChances:[0.085f,0.085f,0.085f,0.085f]}
+/time set day
+/summon minecraft:zombie -65.92 63.00 -23.81 {ArmorItems:[{},{},{id:"minecraft:netherite_helmet",count:1},{}],ArmorDropChances:[0.085f,0.085f,0.085f,0.085f]}
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{},{},{id:"minecraft:netherite_helmet",count:1},{}],ArmorDropChances:[0.085f,0.085f,0.085f,0.085f]}
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}]}
+/summon minecraft:iron_golem ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}]}
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}]}
+/summon minecraft:iron_golem
+/summon minecraft:area_effect_cloud
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}]}
+/summon minecraft:iron_golem ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}]}
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}]}
+/time set day
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}]}
+/summon minecraft:zombie ~ ~ ~ {ArmorItems:[{}, {}, {}, {id:"minecraft:netherite_helmet", count:1}], NoAI:1b}
+/time set day
+/enchant @a minecraft:wind_burst 3
+/enchant @a minecraft:wind_burst 1
+/enchant @a minecraft:breach 3
+/enchant @a minecraft:density
+/enchant @a minecraft:density 5
+/enchant @a minecraft:wind_burst 3
+/enchant @a minecraft:breach 4
+/time set night
+/summon minecraft:zombie ~ ~ ~ {NoAI:1b}
+/item replace entity b85e2ec6-05c6-44ba-92b7-c4cebc865e99 armor.chest with minecraft:netherite_chestplate
+/summon minecraft:zombie ~ ~ ~ {NoAI:1b}
